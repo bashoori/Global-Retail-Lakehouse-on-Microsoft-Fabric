@@ -1,5 +1,9 @@
 # Global Retail Lakehouse on Microsoft Fabric
 
+## Architecture Overview
+
+![Binaryville Lakehouse Architecture](./images/binaryville-lakehouse.png)
+
 ## Overview
 
 Binaryville is a multinational retailer operating in 27 countries, with over 11,000 stores and a strong e-commerce presence. The company generates massive volumes of data daily but struggles to consolidate and analyze it efficiently.

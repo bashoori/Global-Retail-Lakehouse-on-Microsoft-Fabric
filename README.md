@@ -70,6 +70,8 @@ The platform integrates three primary data domains:
 
 The solution follows a Medallion (Bronze, Silver, Gold) lakehouse architecture implemented in Microsoft Fabric.
 
+![Binaryville Lakehouse Architecture](./images/Category_sales.png)
+
 ---
 
 ### Bronze Layer — Raw Ingestion
